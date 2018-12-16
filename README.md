@@ -1,3 +1,10 @@
+## How to use
+
+In your docker file write `FROM iwitaly/nlp:cpu` for CPU version or `FROM iwitaly/nlp:gpu` for GPU version.
+
+Find the image at Docker hub https://hub.docker.com/r/iwitaly/nlp/
+
+
 ## How to build
 
 
